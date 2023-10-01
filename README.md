@@ -1,5 +1,5 @@
+
 <!--  <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" /> -->
-  <img width="100%" height="400px" align="center" src="https://img.freepik.com/premium-vector/special-programming-language-computing-platform-ad_81534-2981.jpg?w=2000" />
   
 <h1>Hi 👋, my name is Pushpalata Sahu</h2>
  <b font-size='50px'>Frontend Developer</b>
@@ -8,28 +8,27 @@
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
 <h4>  &nbsp;&nbsp;&nbsp;&nbsp;Motivated and highly productive Backend Developer with a strong problem-solving mindset and data structure and algorithm. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. Looking forward to applying and enhancing my skills and knowledge as a developer.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-Sah18&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit Sah" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently learning **Spring-Security**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **JAVA, Spring, Spring-Boot, MYSQL**
+- 💬 Ask me about **Javascript, HTML, CSS, React.js**
 
-- 📫 How to reach me **asah07288@gmail.com**
+- 📫 How to reach me **pushpalatasahu1998@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DS0qzk9YPdQbLonSnhWFf0Xe8JLPQuqy/view?usp=share_link]
 
-- 👨‍💻  All of my projects are available at - https://portfolio-ankit-sah.vercel.app/
+- 👨‍💻  All of my projects are available at - https://
 
-- 📝 I regularly write articles on - https://www.blogger.com/blog/posts/4354476538037971106?tab=rj
+- 📝 I regularly write articles on - https://
 
 - ⚡ Fun fact **I Love to explore the Coding problems** 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-sah-52b812234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit-Sah18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Ankit_Sah?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankit-Sah18" height="30" width="40" /></a>
 
 </p> -->
