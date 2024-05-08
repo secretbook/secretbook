@@ -2,7 +2,7 @@
 <!--  <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" /> -->
   
 <h1>Hi 👋, my name is Pushpalata Sahu</h2>
- <b font-size='50px'>Frontend Developer</b>
+ <b font-size='50px'>Web Developer</b>
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
@@ -54,16 +54,16 @@
 
 
 <div > 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)"  height="240px" width="55%"/>
-
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)"  height="240px" width="55%"/>
+ -->
  </div>
  
  
 <div > 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sah18&theme=blue-green&hide_border=false)"  height="240px" width="55%"/>
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sah18&theme=blue-green&hide_border=false)"  height="240px" width="55%"/> -->
 
  </div>
 <div > 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="240px" width="55%"/>
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="240px" width="55%"/> -->
 
  </div>
