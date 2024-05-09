@@ -33,20 +33,18 @@
 
 </p> -->
 
-<h3 align="left">Connect with me:</h3>
+
 <!-- <p align="center">
   
  [![Linkedin Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=linkdin:[[asah07288@gmail.com](https://www.linkedin.com/in/pushpalata-sahu-233b9726a/)](https://www.linkedin.com/in/pushpalata-sahu-233b9726a/))](Pushapalata-sahu)  [![Gmail Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asah07288@gmail.com)](mailto:asah07288@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-Ankit-red?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/Ankit_Sah?hr_r=1)//)](https://www.hackerrank.com/Ankit_Sah?hr_r=1)
  </p> -->
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 
 
-# 📊 GitHub Stats:
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sah18&theme=blue-green&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
