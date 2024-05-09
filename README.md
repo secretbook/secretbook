@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
- [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sah-52b812234///)](https://www.linkedin.com/in/ankit-sah-52b812234/)  [![Gmail Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asah07288@gmail.com)](mailto:asah07288@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-Ankit-red?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/Ankit_Sah?hr_r=1)//)](https://www.hackerrank.com/Ankit_Sah?hr_r=1)
+ [![Linkedin Badge]([https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sah-52b812234///)](https://www.linkedin.com/in/ankit-sah-52b812234/)](https://www.linkedin.com/in/pushpalata-sahu-233b9726a/)  [![Gmail Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asah07288@gmail.com)](mailto:asah07288@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-Ankit-red?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/Ankit_Sah?hr_r=1)//)](https://www.hackerrank.com/Ankit_Sah?hr_r=1)
  </p>
 
 
