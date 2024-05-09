@@ -34,10 +34,10 @@
 </p> -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<!-- <p align="center">
   
- [![Linkedin Badge]((https://www.linkedin.com/in/pushpalata-sahu-233b9726a/)  [![Gmail Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asah07288@gmail.com)](mailto:asah07288@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-Ankit-red?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/Ankit_Sah?hr_r=1)//)](https://www.hackerrank.com/Ankit_Sah?hr_r=1)
- </p>
+ [![Linkedin Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=linkdin:[[asah07288@gmail.com](https://www.linkedin.com/in/pushpalata-sahu-233b9726a/)](https://www.linkedin.com/in/pushpalata-sahu-233b9726a/))](Pushapalata-sahu)  [![Gmail Badge](https://img.shields.io/badge/-asah07288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asah07288@gmail.com)](mailto:asah07288@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-Ankit-red?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/Ankit_Sah?hr_r=1)//)](https://www.hackerrank.com/Ankit_Sah?hr_r=1)
+ </p> -->
 
 
 # 💻 Tech Stack:
