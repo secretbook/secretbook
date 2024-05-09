@@ -12,15 +12,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently working **PHP**
+- 🌱 I’m currently working in **PHP**
 
 - 💬 Ask me about **PHP, Javascript, HTML, CSS**
 
 - 📫 How to reach me **pushpalatasahu1998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DS0qzk9YPdQbLonSnhWFf0Xe8JLPQuqy/view?usp=share_link]
-
-- 👨‍💻  All of my projects are available at - https://
 
 - ⚡ Fun fact **I Love to explore the Coding problems** 
 
