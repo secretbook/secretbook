@@ -12,9 +12,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently working in **Laravel**, **Bootstrap**,
+- 🌱 I’m currently working in **Laravel**,**Javascript**,**Ajax**,**MySQL**, **Bootstrap**,**HTML**,**CSS**,
 
-- 💬 Ask me about **PHP, Javascript, HTML, CSS**
+- 💬 Ask me about **Laravel, PHP, React, Javascript, Ajax, Bootstrap, HTML, CSS**
 
 - 📫 How to reach me **pushpalatasahu1998@gmail.com**
 
