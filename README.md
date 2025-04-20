@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently working in **PHP**
+- 🌱 I’m currently working in **Laravel**, **Bootstrap**,
 
 - 💬 Ask me about **PHP, Javascript, HTML, CSS**
 
