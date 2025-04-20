@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working in **Laravel**, **RestAPI**, **Javascript**, **Ajax**, **MySQL**, **Bootstrap**, **HTML**, **CSS**,
 
-- 💬 Ask me about **Laravel, PHP, React, Javascript, Ajax, Bootstrap, HTML, CSS**
+- 💬 Ask me about **Laravel, RestAPI, PHP, React, Javascript, Ajax, Bootstrap, HTML, CSS**
 
 - 📫 How to reach me **pushpalatasahu1998@gmail.com**
 
